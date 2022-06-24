@@ -1,0 +1,17 @@
+body{
+    background-color: #d7eeee;
+}
+hr{
+    
+    border-style:dotted none none;
+    border-color: rgb(234, 138, 167);
+    border-width: 5px;
+    height: 0px;
+    width: 5% ;
+}
+h1{
+    color: rgb(253, 180, 154);
+}
+h3{
+    color: crimson;
+}
